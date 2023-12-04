@@ -1,0 +1,7 @@
+Lavadora, Precio: $499.99
+Refrigerador, Precio: $799.99
+Televisor, Precio: $699.99
+Smartphone, Precio: $599.99
+Tablet, Precio: $349.99
+Funda para movil, Precio: $19.99
+Funda resistente para movil, Precio: $29.99
